@@ -1,0 +1,2 @@
+# web-crawler-marriage
+Python爬取PTT文章的留言，再用jieba針對詞意分析後利用WordCloud製作文字雲
